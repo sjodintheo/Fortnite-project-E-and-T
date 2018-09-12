@@ -1,12 +1,17 @@
+
+
 body, html {
   height: 100%;
+
 }
+
 
 /*Paralax Style*/
 .parallax {
 
   /* The image used */
-  background-image: url('Bilder/Fortnite.jpg');
+  background-image: url('Bilder/Fortnite.jpg') ;
+  
 
   /* Full height */
   height: 100%; 
