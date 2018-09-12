@@ -1,4 +1,14 @@
-html { }
-
-
-body { background-color: #491D7A }
+html{
+    height: 100%;
+  }
+  
+  body{
+    background-image: url("/Bilder/wp2366065.jpg");
+  
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100%; 
+  }
+  
+  
