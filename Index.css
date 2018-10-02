@@ -10,7 +10,7 @@ body, html {
 .parallax, .parallax2 {
 
   /* The image used */
-  background-image: url('Bilder/Fortnite.jpg');
+  background-image: url('Bilder/Backgrund/Fortnite.jpg');
   
 
   /* Full height */
@@ -31,7 +31,7 @@ body, html {
   min-height: 100%; 
 
   /* Img used */
-background-image: url('Bilder/FortniteMain.jpg') 
+background-image: url('Bilder/Backgrund/FortniteMain.jpg') 
 }  
   
 
