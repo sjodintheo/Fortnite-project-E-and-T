@@ -7,7 +7,7 @@ body, html {
 
 
 /*Paralax Style*/
-.parallax {
+.parallax, .parallax2 {
 
   /* The image used */
   background-image: url('Bilder/Fortnite.jpg');
@@ -21,5 +21,18 @@ body, html {
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
+
 }
+/* Next parallax styling */
+.parallax2 { 
+
+
+  /* Sise of the parallax */
+  min-height: 100%; 
+
+  /* Img used */
+background-image: url('Bilder/FortniteMain.jpg') 
+}  
+  
+
 
