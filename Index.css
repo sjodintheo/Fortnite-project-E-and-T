@@ -2,6 +2,10 @@
 
 body, html {
   height: 100%;
+  margin: 0;
+  font: 400 15px/1.8 "Lato", sans-serif;
+  color: #777;
+  
 
 }
 
@@ -23,18 +27,22 @@ body, html {
   background-size: cover;
 }
 
+.parallax { opacity: 0.8; }
+
 
 .parallax2 {  
 min-height: 100%; 
 
-background-image: url('Bilder/Backgrund/FortniteMain.jpg')
+background-image: url('Bilder/Backgrund/Seson5.jpg ')
 }
 
 
 .parallax3 { 
   min-height: 100%;
 
-background-image: url('Bilder/Vapen/A-Team.jpg')
-
+background-image: url('Bilder/Mapp.jpg')
 }
+
+
+
 
